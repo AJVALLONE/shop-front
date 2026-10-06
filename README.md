@@ -15,7 +15,7 @@ A fully functional e-commerce product browsing and cart experience built in vani
 HTML5 · CSS3 · JavaScript (ES6+) · DOM Manipulation
 
 ## Live Demo
-[View Live →](https://ajvallone.netlify.app/ecommerce.html)
+[View Live →](https://ajvallone.netlify.app/ecommerce)
 
 ## Background
 Built drawing directly on hands-on eCommerce experience — I directed online sales for All Star Elite,
